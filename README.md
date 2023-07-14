@@ -15,7 +15,7 @@ Prasanna Stopwatch is a customizable stopwatch web application. It allows you to
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Stopwatch/
+     https://prasannad02.github.io/Stopwatch-app/
     
 ## Getting Started
 
